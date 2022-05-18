@@ -11,7 +11,6 @@
 - Memahami fundamental web development 
 - Memahami dasar PHP
 - Memahami composer sebagai package manager php
-- Membangun aplikasi berbasis web (CRUD) dengan PHP secara _native_ (tanpa framework)
 - Memahami Laravel sebagai framework php dan dasar-dasarnya
 - Memahami komunikasi antar aplikasi dan REST API sebagai arsiterkturnya
 - Membangun REST API menggunakan Laravel
