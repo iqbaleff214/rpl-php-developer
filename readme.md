@@ -20,21 +20,10 @@
 - Menambahkan fitur authentication dan authorization pada aplikasi web
 
 ### Materi
-##### Pertemuan 1
-- Variabel
-- Tipe Data
-- Konstanta
-- Operator
-- Pengkondisian
-- Perulangan
-- Fungsi
-- _include_ dan _require_
-- _Scope_
-- Global Variabel
-- _Reference_
-- OOP pada PHP
-- MySQL: Query dan Relasi
-- PHP dan MySQL
+- Pertemuan 1 - Dasar Web Development: PHP dan MySQL 
+- Pertemuan 2 - REST API dan Pengenalan Laravel
+- Pertemuan 3 - Menjadi Fullstack Developer dengan Laravel
+- Pertemuan 4 - Membatasi hak akses dengan Laravel
 
 ### Official Documentation
 - [PHP](https://www.php.net/docs.php)
